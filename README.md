@@ -1,2 +1,4 @@
-# aurelia-graphs-datamaps
-Datamaps adapter for aurelia-graphs.
+# aurelia-charts-datamaps
+
+Datamaps adapter for [aurelia-graphs](https://github.com/SpoonX/aurelia-charts)
+
